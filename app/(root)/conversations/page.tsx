@@ -1,5 +1,7 @@
 import { MessageSquare } from "lucide-react";
 
+export const dynamic = "force-dynamic";
+
 export default function ConversationsPage() {
     return (
         <div className="h-full flex flex-col items-center justify-center gap-4 bg-slate-950 text-center p-6">
